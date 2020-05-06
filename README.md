@@ -1,6 +1,6 @@
-# test_project
+# Login App
 
-A new Flutter project.
+A new Flutter project for KOZI_EX.
 
 ## Getting Started
 
