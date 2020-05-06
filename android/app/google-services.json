@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "293544757696",
+    "firebase_url": "https://labellab-f0a3f.firebaseio.com",
+    "project_id": "labellab-f0a3f",
+    "storage_bucket": "labellab-f0a3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293544757696:android:9fdb97929caf72f9092025",
+        "android_client_info": {
+          "package_name": "com.example.test_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293544757696-lkav16gm6bactbel9qj7qqseguod5ecq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_project",
+            "certificate_hash": "50bd05c2f4e6aafc72448c6a034a9cd346177064"
+          }
+        },
+        {
+          "client_id": "293544757696-goaf24k9v50gndhrphb61ht3l6fsbjic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJtnJKOJJH-kudhhZE8SeK9a3pWi3BpXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293544757696-goaf24k9v50gndhrphb61ht3l6fsbjic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
